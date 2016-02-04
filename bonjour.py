@@ -2,7 +2,7 @@
 
 
 def bonjour(name):
-    print('Hello %s!' % name)
+    print('Bonjour  %s!' % name)
 
 
 if __name__ == '__main__':
