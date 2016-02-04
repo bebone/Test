@@ -6,4 +6,5 @@ def bonjour(name):
 
 
 if __name__ == '__main__':
-    bonjour('world')
+    import sys
+    bonjour('world', sys.argv[1])
